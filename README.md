@@ -1,6 +1,6 @@
 ## Setup Instructions
-1. Save **final_code.py** to a folder on your computer.
-2. Place the cleaned dataset file named exactly **DATASET.csv** in the same folder as final_code.py.
+1. Download **final_code.py** to a folder on your computer.
+2. Download **DATASET.csv** in the same folder as final_code.py.
 
 ## Run the Code
 1. Open your terminal or command prompt, navigate to the folder containing your files, and run the script:
