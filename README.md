@@ -11,6 +11,7 @@ _Note: Depending on your computer's speed and the size of the dataset, it may ta
 
 
 2. When the script finishes running, it will automatically create a new folder called Finalproject/outputs/ in your current directory, containing:
+
   A. train_data.csv – The 60% of data used to train the model.
 
   B. validation_data.csv – The 20% of data used to compare the models.
